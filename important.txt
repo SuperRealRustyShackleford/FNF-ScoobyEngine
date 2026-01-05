@@ -1,0 +1,2 @@
+Scooby Engine uses a different save folder than Psych Engine,
+so you are going to have to adjust your settings.

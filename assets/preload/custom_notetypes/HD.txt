@@ -1,0 +1,2 @@
+texture = "noteSkins/Default/HD"
+missHealth = 2

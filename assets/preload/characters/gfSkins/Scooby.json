@@ -1,0 +1,59 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [0,0],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "scoob_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [0,0],
+			"fps": 24,
+			"anim": "scare",
+			"indices": [],
+			"name": "scoob_scare"
+		},
+		{
+			"loop": false,
+			"offsets": [0,0],
+			"fps": 24,
+			"anim": "blur",
+			"indices": [],
+			"name": "scoob_blur"
+		},
+		{
+			"loop": false,
+			"offsets": [0,0],
+			"fps": 24,
+			"anim": "fall",
+			"indices": [],
+			"name": "scoob_fall"
+		},
+		{
+			"loop": false,
+			"offsets": [0,0],
+			"fps": 24,
+			"anim": "walk",
+			"indices": [],
+			"name": "scoob_walk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfSkins/Scooby",
+	"position": [
+		200,
+		100
+	],
+	"healthicon": "gfSkins/Scooby",
+	"flip_x": false,
+	"healthbar_colors": [199, 111, 211],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

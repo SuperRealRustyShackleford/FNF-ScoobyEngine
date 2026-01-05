@@ -1,0 +1,6 @@
+	public static var defaultDifficulties:Array<String> = [
+		'Easy',
+		'Normal',
+		'Hard',
+		'Extra Power'
+	];

@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-18
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventbruh",
+			"indices": [],
+			"name": "BF bruh"
+		},
+		{
+			"offsets": [
+				214,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventgun",
+			"indices": [],
+			"name": "BF gun away"
+		},
+		{
+			"offsets": [
+				-7,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventdab",
+			"indices": [],
+			"name": "BF dab"
+		},
+		{
+			"offsets": [
+				7,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventlol",
+			"indices": [],
+			"name": "lookatdis"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				20
+			],
+			"anim": "eventnogun",
+			"fps": 24,
+			"name": "BF gun away",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventfrick",
+			"indices": [],
+			"name": "BF Scared"
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF Scared"
+		},
+		{
+			"offsets": [
+				214,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF gun away"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfSkins/PETER-G",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfSkins/PETER-G",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		87,
+		-7
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

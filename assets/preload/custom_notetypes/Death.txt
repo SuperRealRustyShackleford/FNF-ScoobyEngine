@@ -1,0 +1,8 @@
+texture = "noteSkins/Default/Death"
+hitHealth = 0
+ignoreNote = true
+lowPriority = true
+noAnimation = true
+hitCausesMiss = false
+offsetX = -181
+offsetY = -75

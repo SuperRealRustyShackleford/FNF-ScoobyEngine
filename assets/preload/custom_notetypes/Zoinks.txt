@@ -1,0 +1,8 @@
+texture = "noteSkins/Default/Zoinks"
+hitHealth = -50000
+ignoreNote = true
+lowPriority = true
+noAnimation = true
+hitCausesMiss = false
+offsetX = 0
+offsetY = 0
